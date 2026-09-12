@@ -1,0 +1,15 @@
+file,bytes,mb
+account_distress.parquet,3882,0.0
+bridge_disposition.parquet,86955,0.08
+dim_account.parquet,53852,0.05
+dim_card.parquet,18605,0.02
+dim_client.parquet,72146,0.07
+dim_date.parquet,33560,0.03
+dim_district.parquet,8585,0.01
+dim_transaction_type.parquet,2277,0.0
+fact_account_behaviour.parquet,287000,0.27
+fact_balance_snapshot.parquet,2656582,2.53
+fact_loan.parquet,21005,0.02
+fact_loan_cohort.parquet,38241,0.04
+fact_order.parquet,112722,0.11
+fact_transaction.parquet,13313353,12.7

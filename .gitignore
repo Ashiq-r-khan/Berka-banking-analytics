@@ -1,0 +1,9 @@
+*.duckdb
+*.duckdb.wal
+parquet/
+Data/raw/
+*.asc
+*.zip
+.ipynb_checkpoints/
+__pycache__/
+*.tmp

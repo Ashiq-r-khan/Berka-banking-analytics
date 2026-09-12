@@ -1,0 +1,11 @@
+table,bytes,mb
+dim_date,33560,0.03
+dim_district,8585,0.01
+dim_client,72146,0.07
+dim_account,53852,0.05
+dim_card,18605,0.02
+dim_transaction_type,2277,0.0
+bridge_disposition,86955,0.08
+fact_transaction,13313353,12.7
+fact_loan,21005,0.02
+fact_order,112722,0.11

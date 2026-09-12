@@ -1,0 +1,8 @@
+table,column,rows,null,blank,question,pct_missing
+district,A12,77,0,0,1,1.3
+district,A15,77,0,0,1,1.3
+order,k_symbol,6471,0,1379,0,21.3
+trans,operation,1056320,183114,0,0,17.3
+trans,k_symbol,1056320,481881,53433,0,50.7
+trans,bank,1056320,782812,0,0,74.1
+trans,account,1056320,760931,0,0,72.0

@@ -1,0 +1,9 @@
+table,loaded,expected,match
+account,4500,4500,True
+card,892,892,True
+client,5369,5369,True
+disp,5369,5369,True
+district,77,77,True
+loan,682,682,True
+order,6471,6471,True
+trans,1056320,1056320,True
